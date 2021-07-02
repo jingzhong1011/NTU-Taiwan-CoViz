@@ -8,6 +8,10 @@
 # Link to Tool
 - https://reurl.cc/gWD10Q 
 
+# Dependencies
+- Data sources and methods for calculating cumulative incidence and prevalence described in more detail here: https://github.com/Russell-Shean/Covid_SHINY_MAP
+- We'll keep adding to this list...
+
 # 團隊成員
 <img src="https://github.com/Russell-Shean/NTU-Taiwan-CoViz/raw/main/image.png" width="400" height="auto" />
 
