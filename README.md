@@ -21,3 +21,13 @@
 # Dependencies
 - Data sources and methods for calculating cumulative incidence and prevalence described in more detail here: https://github.com/Russell-Shean/Covid_SHINY_MAP
 - We'll keep adding to this list...
+
+
+|Institute|Position|Name|
+|---------|--------|----|
+|Department of Public Health, NTU| 	Student| 	王敬中|
+|Department of Public Health, NTU| 	Student| 	夏琬慈|
+|Institute of Epidemiology and Prventive Medicine,NTU| 	Research assistant| 	劉柏辰|
+|Institute of Epidemiology and Prventive Medicine,NTU| 	Research associate| 	伍倢瑩|
+|Institute of Epidemiology and Prventive Medicine,NTU| 	PhD candidate| 	吳昀麇|
+|Institute of Epidemiology and Prventive Medicine,NTU| 	Professor| 	林先和| 
