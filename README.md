@@ -12,4 +12,4 @@
 <img src="https://github.com/Russell-Shean/NTU-Taiwan-CoViz/raw/main/image.png" width="400" height="auto" />
 
 # 特別感謝提供建議與原始程式碼
-I<img src="https://github.com/Russell-Shean/Taiwancovid/raw/main/thankyous2.jpg" width="400" height="auto" />
+<img src="https://github.com/Russell-Shean/NTU-Taiwan-CoViz/raw/main/thankyous2.jpg" width="400" height="auto" />
