@@ -1,4 +1,3 @@
-# NTU-Taiwan-CoViz
 # CoViz 台灣 COVID-19視覺化
 
 # About
