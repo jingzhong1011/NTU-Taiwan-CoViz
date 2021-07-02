@@ -17,3 +17,7 @@
 
 # 特別感謝提供建議與原始程式碼
 <img src="https://github.com/Russell-Shean/NTU-Taiwan-CoViz/raw/main/thankyous2.jpg" width="400" height="auto" />
+
+# Contact us
+- 有任何指正請與我們聯繫: 伍小姐 <jenny1004wu@ntu.edu.tw>
+- Feel free to contact us with any suggestions, thoughts or corrections : 伍小姐 <jenny1004wu@ntu.edu.tw>
